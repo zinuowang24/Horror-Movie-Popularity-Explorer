@@ -1,0 +1,3 @@
+is_collection,movie_count,avg_popularity,median_popularity,avg_revenue,median_revenue,collection_label
+0,30234,3.123790930740226,0.716,575391.4029238606,0.0,No Collection
+1,2306,15.677862098872508,3.7960000000000003,11502330.864700781,0.0,In Collection

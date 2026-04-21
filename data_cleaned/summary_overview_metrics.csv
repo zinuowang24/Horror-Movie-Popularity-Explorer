@@ -1,0 +1,16 @@
+Metric,Value
+number_of_movies,32540.0
+earliest_release_year,1950.0
+latest_release_year,2022.0
+average_popularity,4.01
+average_vote_average,3.34
+median_vote_count,2.0
+total_vote_count,2039981.0
+average_revenue,1349746.73
+median_revenue,0.0
+average_budget,543126.59
+median_budget,0.0
+average_runtime,67.69
+collection_movies,2306.0
+non_collection_movies,30234.0
+collection_share,7.09
