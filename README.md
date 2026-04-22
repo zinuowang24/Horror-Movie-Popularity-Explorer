@@ -58,6 +58,7 @@ git clone https://github.com/zinuowang24/Horror-Movie-Popularity-Explorer.git
 cd Horror-Movie-Popularity-Explorer
 pip install -r requirements.txt
 python -m streamlit run app.py
+```
 After running the command, open the local address shown in the terminal, usually:http://localhost:8501
 
 ## 6. Product link / Demo
