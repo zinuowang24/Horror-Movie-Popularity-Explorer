@@ -61,13 +61,7 @@ python -m streamlit run app.py
 ```
 After running the command, open the local address shown in the terminal, usually:http://localhost:8501
 
-## 6. Product link / Demo
-**Product / Tool:** Local Streamlit app in this repository  
-**Repository link:** https://github.com/zinuowang24/Horror-Movie-Popularity-Explorer  
-**How to launch locally:** `python -m streamlit run app.py`  
-**Demo video:** To be added
-
-## 7. Limitations & next steps
+## 6. Limitations & next steps
 ### Limitations
 - This is an **exploratory analysis**, so the results should not be interpreted as causal.
 - The dataset’s `popularity` field is treated as an observed platform metric, not a complete measure of business success.
